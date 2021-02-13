@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to KopperKnight's Github Website
+
+This is a work in progress for now. As my projects progress I will post them here.
+
+In the meantime the default template filler will exist below this line. 
+____________________
 
 You can use the [editor on GitHub](https://github.com/KopperKnight/kopperknight.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
