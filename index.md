@@ -4,10 +4,10 @@
 # Kopper Knight Tetris
 
 A Tetris remake made by me from scratch using the Java Programming Language.
-![KopperKnightTetris being played.](kopperknighttetris.gif)
+![KopperKnightTetris being played.](kopperknighttetris500w.gif)
 You can see the current API Javadoc [here](kopperknighttetris/index.html). If you have Java 11 installed on your desktop you can download the cross platform version. If you have a Windows Desktop and do not have Java 11 installed or are not sure. you can download the windows version. 
--[cross-platform-version](https://github.com/KopperKnight/KopperKnightTetris/releases/tag/0.212jar) 
--[Windows Version](https://github.com/KopperKnight/KopperKnightTetris/releases/tag/0.212win)
+- [cross-platform-version](https://github.com/KopperKnight/KopperKnightTetris/releases/tag/0.212jar) 
+- [Windows Version](https://github.com/KopperKnight/KopperKnightTetris/releases/tag/0.212win)
 
 
 This is a work in progress for now. As my projects progress I will post them here.
