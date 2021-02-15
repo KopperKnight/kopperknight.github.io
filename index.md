@@ -1,4 +1,4 @@
-** # Welcome to KopperKnight's Github Website**
+ # Welcome to KopperKnight's Github Website
 
 ### About Me
 
