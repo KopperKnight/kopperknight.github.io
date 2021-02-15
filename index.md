@@ -1,4 +1,4 @@
-**# Welcome to KopperKnight's Github Website**
+** # Welcome to KopperKnight's Github Website**
 
 ### About Me
 
@@ -11,7 +11,7 @@ I have done in the past soon).
 
 ### Kopper Knight Tetris
 
-A Tetris remake I put together one week in February 2021 using no third party libraries on the Java Platform. 
+A Tetris remake I put together one week in February 2021, using no third party libraries, in the Java Programming Language. 
 
 
 ![KopperKnightTetris being played.](kopperknighttetris500w.gif)  
