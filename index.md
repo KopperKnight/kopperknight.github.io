@@ -16,6 +16,16 @@ my Fall 2019 computer science networking course on November 1, 2019. The project
 
 ![UUE format converts any file to safe-for-transmission ascii text](kopperknightuue.gif)
 
+No executables will be released for this project because virus programs flag their download and execution if unsigned. Therefore, one must compile the source to run this project.
+
+You can compile the project into executable files typing "make" on the commandline in linux or windows in the root directory of the sources.
+
+If you are on windows you need to install [mingw-w64](http://mingw-w64.org/) and add <mingw-location>\bin to your system PATH variable first. 
+if you are on linux you should have the C/C++ build tools already installed, otherwise on ubuntu specifically, you can install make/c/c++ compilers using the command 
+```
+sudo apt-get update
+sudo apt-get install build-essential
+```
 
 ***
 
