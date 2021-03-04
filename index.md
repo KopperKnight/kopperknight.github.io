@@ -16,7 +16,7 @@ my Fall 2019 computer science networking course on November 1, 2019. The project
 
 ![UUE format converts any file to safe-for-transmission ascii text](kopperknightuue.gif)
 
-You can compile the project into executable files typing "make" on the commandline in linux or windows in the root directory of the sources.
+You can compile the project into executable files typing "make" on the commandline in linux or windows in the root directory of the sources, there are more details in the readme file.
 
 - If you are on windows you need to install [mingw-w64](http://mingw-w64.org/) and add <mingw-location>\bin to your system PATH variable first. 
 - if you are on linux you should have the C/C++ build tools already installed, otherwise on ubuntu specifically, you can install make/c/c++ compilers using the command 
@@ -25,7 +25,7 @@ sudo apt-get update
 sudo apt-get install build-essential
 ```
 
-- Additional, [Here](https://en.wikipedia.org/wiki/Uuencoding) is the wikipedia article on UUE format.
+- Additionally, [here](https://en.wikipedia.org/wiki/Uuencoding) is the wikipedia article on UUE format.
 
 ***
 
