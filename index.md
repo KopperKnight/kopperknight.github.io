@@ -20,12 +20,14 @@ No executables will be released for this project because virus programs flag the
 
 You can compile the project into executable files typing "make" on the commandline in linux or windows in the root directory of the sources.
 
-If you are on windows you need to install [mingw-w64](http://mingw-w64.org/) and add <mingw-location>\bin to your system PATH variable first. 
-if you are on linux you should have the C/C++ build tools already installed, otherwise on ubuntu specifically, you can install make/c/c++ compilers using the command 
+- If you are on windows you need to install [mingw-w64](http://mingw-w64.org/) and add <mingw-location>\bin to your system PATH variable first. 
+- if you are on linux you should have the C/C++ build tools already installed, otherwise on ubuntu specifically, you can install make/c/c++ compilers using the command 
 ```
 sudo apt-get update
 sudo apt-get install build-essential
 ```
+
+[Here](https://en.wikipedia.org/wiki/Uuencoding) is the wikipedia article on UUE format.
 
 ***
 
