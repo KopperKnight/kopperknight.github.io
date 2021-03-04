@@ -9,7 +9,7 @@ Java as I first learned it way back in 2007. Below is a list of the projects I a
 I have done in the past soon).
 
 ***
-### Unix-to-Unix Encoder/Decoder / March 3, 2021
+### Unix-to-Unix Encoder / Decoder / March 3, 2021
 
 This is the source files to a uuencoder and uudecoder .cpp files that I originally submitted for 
 my Fall 2019 computer science networking course on November 1, 2019. The project is [here.](https://github.com/KopperKnight/uue2019)
