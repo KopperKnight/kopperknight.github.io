@@ -14,7 +14,7 @@ I have done in the past soon).
 This is the source files to a uuencoder and uudecoder .cpp files that I originally submitted for 
 my Fall 2019 computer science networking course on November 1, 2019. The project is [here.](https://github.com/KopperKnight/uue2019)
 
-![UUE format converts any file to safe-for-transmission ascii text](kopperknightuue.png)
+![UUE format converts any file to safe-for-transmission ascii text](kopperknightuue.gif)
 
 
 ***
